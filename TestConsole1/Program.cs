@@ -9,6 +9,7 @@ namespace TestConsole1
     {
         static void Main(string[] args)
         {
+            string a;
         }
     }
 }
